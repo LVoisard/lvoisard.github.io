@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of some of my favortite projects
+description: A collection of some of my favorite projects
 nav: true
 nav_order: 3
 display_categories: [games, simulations]

@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - LVoisard
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ptidejteam/ecs-survivors
+  - LVoisard/ecs-survivors-collision-test
+  - LVoisard/graph-reconstruction-godot
+  - LVoisard/sph_erosion_simulator
+  - LVoisard/erosion_simulator

@@ -1,14 +1,14 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-15'
 papers:
   BTlmkBkAAAAJ:IjCSPb-OGe4C:
-    citations: 4
+    citations: 5
     title: Adaptive Hand Visibility for Accurate 3D User Interactions in Virtual Environments
     year: '2025'
   BTlmkBkAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: 'CG-WFC: A Hybrid Cyclic-Graph & WFC Method for Designer-Guided and Replayable Procedural Content Generation'
-    year: '2025'
+    year: '2026'
   BTlmkBkAAAAJ:UeHWp8X0CEIC:
     citations: 3
     title: Subtask-based virtual hand visualization method for enhanced user accuracy in virtual reality environments
@@ -18,10 +18,10 @@ papers:
     title: Report on ReAnimate'25
     year: '2026'
   BTlmkBkAAAAJ:u5HHmVD_uO8C:
-    citations: 11
+    citations: 12
     title: Effects of opaque, transparent and invisible hand visualization styles on motor dexterity in a virtual reality based purdue pegboard test
     year: '2023'
   BTlmkBkAAAAJ:zYLM7Y9cAGgC:
-    citations: 3
+    citations: 4
     title: A mapping study of the entity component system pattern
     year: '2025'

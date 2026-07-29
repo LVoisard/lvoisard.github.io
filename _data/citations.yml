@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-29'
 papers:
   BTlmkBkAAAAJ:IjCSPb-OGe4C:
     citations: 5
@@ -13,6 +13,10 @@ papers:
     citations: 3
     title: Subtask-based virtual hand visualization method for enhanced user accuracy in virtual reality environments
     year: '2024'
+  BTlmkBkAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: Performance and Complexity Trade-offs in Archetype-Based Entity-Component-System
+    year: '2026'
   BTlmkBkAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: Report on ReAnimate'25
@@ -22,6 +26,6 @@ papers:
     title: Effects of opaque, transparent and invisible hand visualization styles on motor dexterity in a virtual reality based purdue pegboard test
     year: '2023'
   BTlmkBkAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 6
     title: A mapping study of the entity component system pattern
     year: '2025'
